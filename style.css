@@ -1,0 +1,42 @@
+header{
+    background: #5454D4 !important;
+}
+
+.number p{
+    border-radius: 50%;
+    background: #FEDC5A;
+    padding: 5px;
+    line-height: 15px !important;
+}
+
+/* .earphone img{
+    width: 300px !important;
+    min-height: 400px !important;
+} */
+
+.enjoy p{
+    color: rgba(255, 255, 255, 0.7) !important;
+}
+
+header .price{
+    background: #6565E9;
+    /* display: block !important; */
+    width: 300px !important ;
+    padding: 10px 20px;
+}
+
+header .price a{
+    padding: 10px;
+}
+
+.get .get-text{
+    color: #696871 !important;
+}
+
+.everything{
+    background: #413E65;
+}
+
+.music-text{
+    color:  #696871 !important;
+}
